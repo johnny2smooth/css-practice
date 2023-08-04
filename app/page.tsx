@@ -64,6 +64,24 @@ export default function Home() {
       <div className={`${aleo.className} highlight text-6xl p-4`}>
         Highlights to the important things in life!
       </div>
+      <div className={`${aleo.className} indent text-6xl p-4`}>
+        Who would have known that you can indent text? that is pretty cool,
+        isn&apos;t it?
+      </div>
+      <div className={`${aleo.className} vertical text-6xl p-4`}>Hello!</div>
+      <div className={`${aleo.className} vertical upright text-6xl p-4`}>
+        Hello!
+      </div>
+      <div className={`${aleo.className} shadow text-6xl p-4`}>Shadows</div>
+      <div className={`${aleo.className} pink-shadow text-6xl p-4`}>
+        Pink Shadow
+      </div>
+      <div className={`${aleo.className} tri-shadow text-8xl p-4`}>
+        Tri Shadow
+      </div>
+      <div className={`${aleo.className} pulp-shadow text-8xl p-4`}>
+        Pulp Shadow
+      </div>
     </>
   );
 }
