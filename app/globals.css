@@ -44,3 +44,25 @@ body {
 .ff-eb-garamond {
   font-family: "EB Garamond";
 }
+
+.nabla {
+  font-size: xx-large;
+  font-variation-settings: "EDPT" 0, "EHLT" 23.2489;
+}
+
+.spaced-out-letters {
+  letter-spacing: 3rem;
+}
+
+.spaced-out-words {
+  word-spacing: 3rem;
+}
+
+.line-test {
+  text-decoration: underline overline wavy red;
+  line-height: 10rem;
+}
+
+.highlight {
+  text-decoration: line-through rgba(240, 140, 0, 0.5) 1.4ex;
+}
